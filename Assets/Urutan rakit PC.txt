@@ -1,0 +1,12 @@
+Urutan rakit PC
+1. buka kaca casing
+2. pasang motherboard
+
+~~~~~ setelah e boleh bebas urutan e ~~~~~~ 
+- pasang processor & CPU fan (harus processornya dulu baru  CPU fan, soalnya posisi processor ada di bawah CPU fan)
+- pasang VGA/GPU
+- pasang RAM (slot ada 4, tapi yang wajib dipasang minimal 1)
+- pasang Fan Casing
+- pasang Power supply (PSU)
+
+---- kalo semua yang di atas sudah dilakukan, misi selesai ----

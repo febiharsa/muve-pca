@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 593c876b23465754a97f106aa910a66e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fan Case
+    second: {fileID: 2100000, guid: 419f5e3f442debc45970d9470590a3b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HardiskMaterial
+    second: {fileID: 2100000, guid: 67e186874ff3a444daf416295557e49c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Processor mat
+    second: {fileID: 2100000, guid: 971778dbff710ac4580253db21ae84c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Processor mat.001
+    second: {fileID: 2100000, guid: 04ccc82284171c34c9d8c852f694222a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat
+    second: {fileID: 2100000, guid: a95b8f7753f479644b59ecdfd47e2064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.001
+    second: {fileID: 2100000, guid: b2fe776f9b4721b4ca372dfb4cb6342e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.002
+    second: {fileID: 2100000, guid: 8855b65b52ed742419451c0709134117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.003
+    second: {fileID: 2100000, guid: 34e7f81cb7c7673439c2ea47a5bafcd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.004
+    second: {fileID: 2100000, guid: 1548583918558f8429b91c9639c8692c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.005
+    second: {fileID: 2100000, guid: d0064a6fee3ea3e48b9dda45e6525d00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.006
+    second: {fileID: 2100000, guid: 9e22dc21d7e61ab42ba8fa69a783ca44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.007
+    second: {fileID: 2100000, guid: 877c3c6d15f7c3244bf27de6102e210c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.008
+    second: {fileID: 2100000, guid: 16c2b4637a45d764286f13edf93970de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.009
+    second: {fileID: 2100000, guid: 3453fad8caf261149ade75111d4c5e80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.010
+    second: {fileID: 2100000, guid: d662d4797a554a648a94003161500b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.011
+    second: {fileID: 2100000, guid: c008b4781c4ebe84a925376efc0378f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.012
+    second: {fileID: 2100000, guid: 950aad667a37ec84caf483da2ac65279, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.013
+    second: {fileID: 2100000, guid: 4147e6b435246a94197040d44502cb06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.014
+    second: {fileID: 2100000, guid: 6144b002a5eef3c4aac6155261c0b190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.015
+    second: {fileID: 2100000, guid: 8edf210e71779b6488693d5b659c4960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.016
+    second: {fileID: 2100000, guid: 2c00af54919d8234ebbbc0e07ffd788f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.017
+    second: {fileID: 2100000, guid: bd3e43bfc5e960a4486f1ea26271c62c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.018
+    second: {fileID: 2100000, guid: da36fa0a54fdc874fb6ad4c11c756e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.019
+    second: {fileID: 2100000, guid: ee7ad2c604772334f82039ea2c97fabc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.020
+    second: {fileID: 2100000, guid: b5c223e021312f04ab07ba034dd513fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.021
+    second: {fileID: 2100000, guid: 3f214a81513066e45bbd593767cd9fe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.022
+    second: {fileID: 2100000, guid: 09dbcf8c4211c7146bd213ea49ee4fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.023
+    second: {fileID: 2100000, guid: 3d1caf11db088d240a0962317c4c263b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.024
+    second: {fileID: 2100000, guid: 153ad6adbe3e6794d8c7a0bba0914025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.025
+    second: {fileID: 2100000, guid: ce59c75da983f08459a333b74133c68c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.026
+    second: {fileID: 2100000, guid: d9f3d5a23a9f2ad4da46ac999597a497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.027
+    second: {fileID: 2100000, guid: 04a4d60c38c5bf04aaf6eb5837e479ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG HERO Mat.028
+    second: {fileID: 2100000, guid: a11dd1fbfe0c9a946b0de222f0a29cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat
+    second: {fileID: 2100000, guid: 423a0c51ed7915347ad29dcae60fd9cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.001
+    second: {fileID: 2100000, guid: 382068132f825e34aa7826617827f25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.002
+    second: {fileID: 2100000, guid: b15fd1c507d173a4fbd137c8f9eabcae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.003
+    second: {fileID: 2100000, guid: 899fba66fb0503143b04c6d0189ba8e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.005
+    second: {fileID: 2100000, guid: 67e145a473e329244a16db08a9233333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.006
+    second: {fileID: 2100000, guid: 3367d2e1689d079408e25e8c3a4f6d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.007
+    second: {fileID: 2100000, guid: bca5cd5e17e7afa4882e3b63991a30d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.008
+    second: {fileID: 2100000, guid: 9ef6f40d71ce23b43bca70b4119936ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.009
+    second: {fileID: 2100000, guid: ad40367164a679447a6929c874ebbd71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.010
+    second: {fileID: 2100000, guid: 4bfabe4b97c5f794c961340a4c04b092, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.011
+    second: {fileID: 2100000, guid: 2b6ed14da8fa3fc458a3180d505bcdbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.012
+    second: {fileID: 2100000, guid: f7bea8c01e5d03643bde15f2257bb03e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.013
+    second: {fileID: 2100000, guid: 0345fa30d29f49c4c893bf5d20ca5de7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.014
+    second: {fileID: 2100000, guid: 78aaf93f8e53f2f4c9099041ede0cf18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.015
+    second: {fileID: 2100000, guid: dbcf5e5381d347a41a97243aeba8a794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.016
+    second: {fileID: 2100000, guid: 9e9ed95c814670c4f928ffdbde261db4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.017
+    second: {fileID: 2100000, guid: a83a4eaed26360d4382cabf57af6e155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROG Strix Mat.018
+    second: {fileID: 2100000, guid: 415ecdce656be744eaf4d66e1299afd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fan-top
+    second: {fileID: 2100000, guid: 301a5b5829384804bbc4da719eaaecd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gpu
+    second: {fileID: 2100000, guid: aaa1745849d43784f98d7da29ae42a64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: heatsink
+    second: {fileID: 2100000, guid: 706536bee497a7041b8a95a03d93e11d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: motherboard Gigabyte
+    second: {fileID: 2100000, guid: a499b20c2741c9942a2dc69fe3caf587, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: psu
+    second: {fileID: 2100000, guid: 3b3cc2c70594d774e93229501fa167b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ram
+    second: {fileID: 2100000, guid: a4dbf96f4f9d3c341b9832269b9c08fb, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
